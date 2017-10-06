@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
-                <div class="panel-heading">Dashboard</div>
+                <!-- <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
                     @if (session('status'))
@@ -15,7 +15,7 @@
                     @endif
 
                     You are logged in!
-                </div> 
+                </div> --> 
             </div>
             <nav class="navbar navbar-inverse">
               <ul class="nav navbar-nav">
